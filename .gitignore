@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -23,3 +24,14 @@ dist-ssr
 *.sln
 *.sw?
 node_modules/
+=======
+# 윈도우 사용자
+desktop.ini
+Thumbs.db
+
+# 맥 사용자
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+>>>>>>> 1587277203c842292888e47fdb06b6d407e3644c
